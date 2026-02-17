@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dublinplumbingteam.com/sitemap.xml
